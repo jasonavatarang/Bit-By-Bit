@@ -19,12 +19,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -38,16 +32,9 @@
   <h3 align="center">Bit by Bit</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Interactive tool to help with Interview Prep 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  
   </p>
 </div>
 
@@ -82,20 +69,23 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Bit by Bit
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Welcome to Bit by Bit, your ultimate companion for mastering interview preparation and LeetCode challenges. Our platform is designed to help you systematically track your progress, stay motivated, and achieve your coding goals, one bit at a time.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Key Features:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Personalized Progress Tracking: Monitor your journey through interview preparation and LeetCode problems with our intuitive tracking system. Set goals, mark milestones, and visualize your improvement over time.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+* Comprehensive Resource Management: Access a curated list of resources, including coding tutorials, interview tips, and problem-solving strategies. Organize your study materials and keep everything you need in one place.
 
-Use the `BLANK_README.md` to get started.
+* Goal Setting & Reminders: Define your study targets and receive timely reminders to keep you on track. Stay focused and disciplined with customized notifications and daily study plans.
+
+* Community Support: Join a vibrant community of learners and aspiring professionals. Share insights, discuss challenges, and collaborate with peers to enhance your learning experience.
+
+* Detailed Analytics: Gain insights into your strengths and areas for improvement with detailed analytics. Track your progress across different problem categories and difficulty levels.
+
+At Bit by Bit, we believe that consistent, incremental progress is the key to success. Whether you're preparing for your next big interview or aiming to conquer LeetCode challenges, our platform is here to support you every step of the way. Join us and start turning your coding dreams into reality, bit by bit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,12 +95,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -136,19 +121,20 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/jasonavatarang/Bit-By-Bit/
    ```
+2.
+  ```sh
+  cd client
+  ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

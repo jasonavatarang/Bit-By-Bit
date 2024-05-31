@@ -73,6 +73,8 @@
 
 Welcome to Bit by Bit, your ultimate companion for mastering interview preparation and LeetCode challenges. Our platform is designed to help you systematically track your progress, stay motivated, and achieve your coding goals, one bit at a time.
 
+<a href="https://docs.google.com/document/d/1LFsOYUO9s3FXH7d_aoI34vxROgMrWm85aszTGre-fK0/edit?usp=sharing"> Google Doc Planning Sheet </a>
+
 Key Features:
 
 * Personalized Progress Tracking: Monitor your journey through interview preparation and LeetCode problems with our intuitive tracking system. Set goals, mark milestones, and visualize your improvement over time.

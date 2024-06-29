@@ -1,15 +1,21 @@
-import logo from './logo.png';
+// src/App.js
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import About from './pages/About';
+import Layout from './components/Layout';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <h1>Testing</h1>
-      <img src={logo}></img>
-
-      </header>
-    </div>
+    <Router>
+      <Layout>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </Layout>
+    </Router>
   );
 }
 

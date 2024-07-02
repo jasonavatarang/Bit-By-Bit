@@ -10,11 +10,10 @@ const Footer = () => {
           <div className="col-lg-6 col-md-12 mb-4 mb-md-0">
             <div className="d-flex align-items-center">
               <img src={logo} alt="Logo" width="30" height="30" className="d-inline-block align-text-top me-2" />
-              <h5 className="text-uppercase mb-0">Bit by Bit</h5>
+              <h5 className="text mb-0">Bit by Bit</h5>
             </div>
             <p className="mt-3">
-              Here you can use rows and columns to organize your footer content. 
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              By Carolina Aranguiz Dias and Jason Ang
             </p>
           </div>
           {/* First column */}
@@ -65,8 +64,8 @@ const Footer = () => {
 
       {/* Copyright */}
       <div className="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        © 2024 Copyright:
-        <a className="text-dark" href="https://yourwebsite.com/">yourwebsite.com</a>
+        © 2024 Copyright:&nbsp;
+        <a className="text-dark" href="https://bitbybit.com/">bitbybit.com</a>
       </div>
       {/* Copyright */}
     </footer>
